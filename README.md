@@ -20,7 +20,7 @@ Please add this manifest to .repo/local_manifests before syncing:
 ```bash
 # Execute this command inside your build directory
 
-git clone https://github.com/truly-irham/local_manifests.git -b udc .repo/local_manifests
+git clone https://github.com/StuartForCui/local_manifests.git -b udc .repo/local_manifests
 ```
 
 To sync all sources defined in the manifests, run:
