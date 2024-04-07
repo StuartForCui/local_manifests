@@ -13,7 +13,7 @@ To initialize the uqpr2 manifest branch of Evolution X:
 repo init -u https://github.com/Evolution-X/manifest -b uqpr2
 ```
 
-### Syncing Xiaomi 12 Pro "diting" dependencies for Evolution X uqpr2 ###
+### Syncing Xiaomi 12T Pro/RedmiK50Ultra "diting" dependencies for Evolution X uqpr2 ###
 
 Please add this manifest to .repo/local_manifests before syncing:
 
