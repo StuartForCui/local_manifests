@@ -20,9 +20,7 @@
   <project name="beet-stuffs/vendor_xiaomi_diting" path="vendor/xiaomi/diting" remote="github" revision="fourteen" />
   <project name="cupid-development/proprietary_vendor_xiaomi_sm8450-common" path="vendor/xiaomi/sm8450-common" remote="mainlining" revision="lineage-21" />
 
-  <!-- Import from LineageOS -->
-  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-21" />
-  <project name="LineageOS/android_hardware_qcom_display" path="hardware/qcom-caf/sm8450/display" remote="github" revision="lineage-21.0-caf-sm8450" />
+
 
   <!-- Import ViPER4Android FX RE -->
   <project name="truly-irham/packages_apps_ViPER4AndroidFX" path="packages/apps/ViPER4AndroidFX" remote="github" revision="v4a" />
