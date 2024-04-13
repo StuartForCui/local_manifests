@@ -5,10 +5,10 @@
 
   <!-- Device trees -->
   <project name="beet-stuffs/android_device_xiaomi_diting" path="device/xiaomi/diting" remote="github" revision="fourteen" />
-  <project name="Evolution-X-Devices/device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="github" revision="udc" />
+  <project name="truly-irham/device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="github" revision="udc" />
   
   <!-- Kernel trees -->
-  <project name="cupid-development/android_kernel_xiaomi_sm8450" path="kernel/xiaomi/sm8450" remote="github" revision="lineage-21" />
+  <project name="beet-stuffs/android_kernel_xiaomi_sm8450" path="kernel/xiaomi/sm8450" remote="github" revision="fourteen" />
   <project name="cupid-development/android_kernel_xiaomi_sm8450-modules" path="kernel/xiaomi/sm8450-modules" remote="github" revision="lineage-21" />
   <project name="cupid-development/android_kernel_xiaomi_sm8450-devicetrees" path="kernel/xiaomi/sm8450-devicetrees" remote="github" revision="lineage-21" />
 
