@@ -4,7 +4,7 @@
   <remote fetch="https://git.mainlining.org" name="mainlining" revision="lineage-21" />
 
   <!-- Device trees -->
-  <project name="beet-stuffs/android_device_xiaomi_diting" path="device/xiaomi/diting" remote="github" revision="fourteen" />
+  <project name="StuartForCui/evolution_android_device_xiaomi_diting" path="device/xiaomi/diting" remote="github" revision="fourteen" />
   <project name="truly-irham/device_xiaomi_sm8450-common" path="device/xiaomi/sm8450-common" remote="github" revision="udc" />
   
   <!-- Kernel trees -->
